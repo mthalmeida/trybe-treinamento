@@ -1,0 +1,2 @@
+Arquivo\ teste.txt
+\  comando usado para dar espaço em nomes dentro do diretório
