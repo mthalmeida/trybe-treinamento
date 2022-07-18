@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(221, 221, 221)
+}
+
+h2 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: rgb(80, 0, 0);
+    text-align: left;
+    background-color: #fff;
+}
+
+h3 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+.header li {
+    position: relative;
+    text-align: left;
+    display: inline;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 0px solid rgba(255, 0, 0, 0);
+    background: rgb(255, 255, 255);
+    color: #FFF;
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    /*FONTE: https://www.yesbr.com.br/dicas-e-tutoriais/criando-menu-em-html-com-css/#:~:text=Criando%20o%20menu%20em%20HTML,HTML%2C%20com%20o%20seguinte%20c%C3%B3digo.&text=Lembrando%20que%20este%20c%C3%B3digo%20deve,%2Fbody%3E%20de%20sua%20p%C3%A1gina.*/
+}
+
+#photo {
+    border-radius: 05%;
+}
+
+#about {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+#font-article {
+    font-size: 10px;
+}
+
+#header-main {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+#classificacao {
+}

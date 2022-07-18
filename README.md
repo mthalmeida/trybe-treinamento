@@ -22,24 +22,24 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
 ### Bloco 01: Unix & Bash
 
- - [ ] **03**: Fundamentos do Desenvolvimento Web
- - [ ] **03**: Introdução - Unix & Shell
- - [ ] **03**: Unix & Bash - Parte 1
- - [ ] **04**: Unix & Bash - Parte 2
+ - [x] **03**: Fundamentos do Desenvolvimento Web
+ - [x] **03**: Introdução - Unix & Shell
+ - [x] **03**: Unix & Bash - Parte 1
+ - [x] **04**: Unix & Bash - Parte 2
 
 ### Bloco 02: Git, GitHub e Internet
 
- - [ ] **01**: Git & GitHub - O que é e para que serve
- - [ ] **02**: Git & GitHub - Entendendo os comandos
- - [ ] **03**: Internet - Entendendo como ela funciona
+ - [x] **01**: Git & GitHub - O que é e para que serve
+ - [x] **02**: Git & GitHub - Entendendo os comandos
+ - [x] **03**: Internet - Entendendo como ela funciona
 
 ### Bloco 03: Introdução à HTML e CSS
 
- - [ ] **01**: Introdução - HTML & CSS
- - [ ] **01**: HTML & CSS - Estruturas de página
- - [ ] **02**: HTML & CSS - Primeiros passos em CSS
- - [ ] **03**: HTML & CSS - Seletores e posicionamento
- - [ ] **04**: HTML Semântico
+ - [x] **01**: Introdução - HTML & CSS
+ - [x] **01**: HTML & CSS - Estruturas de página
+ - [x] **02**: HTML & CSS - Primeiros passos em CSS
+ - [x] **03**: HTML & CSS - Seletores e posicionamento
+ - [x] **04**: HTML Semântico
  - [ ] **05**: Projeto - Lessons Learned
 
 **Bloco 04: Introdução à JavaScript e Lógica de Programação**
