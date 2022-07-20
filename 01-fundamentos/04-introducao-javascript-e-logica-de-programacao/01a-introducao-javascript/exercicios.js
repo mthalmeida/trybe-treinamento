@@ -54,3 +54,22 @@ if (ladoA === ladoB && ladoB === ladoC) {
 } else {
   console.log("erro de dado atribuido") 
 }
+
+//retorna dados de notas numericas para porcentagem
+let notaAtribuida = 78
+
+if (notaAtribuida >= 0 && notaAtribuida <= 49) {
+  console.log("F")
+} else if (notaAtribuida >= 50 && notaAtribuida <= 59) {
+  console.log("E")
+} else if (notaAtribuida >= 60 && notaAtribuida <= 69) {
+  console.log("D")
+} else if (notaAtribuida >= 70 && notaAtribuida <=79) {
+  console.log("C")
+} else if (notaAtribuida >= 80 &&  notaAtribuida<= 89) {
+  console.log("B")
+} else if (notaAtribuida >= 90 && notaAtribuida <= 100) {
+  console.log("A")
+} else {
+  console.log("Favor conferir a nota atribuida")
+}
