@@ -23,3 +23,13 @@ if (primeiroNumero > segundoNumero) {
 } else {
   console.log(segundoNumero)
 }
+
+//retorne o maior de três números
+if (primeiroNumero > segundoNumero && primeiroNumero > terceiroNumero) {
+  console.log(primeiroNumero)
+} else if (segundoNumero > primeiroNumero && segundoNumero > terceiroNumero) {
+  console.log(segundoNumero)
+} else {
+  console.log(terceiroNumero)
+}
+
