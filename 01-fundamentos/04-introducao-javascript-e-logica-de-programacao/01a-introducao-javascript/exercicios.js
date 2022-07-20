@@ -43,3 +43,14 @@ if (valorDefinido > 0) {
   console.log("Zero") 
 }
 
+//constantes sobre triângulo
+const ladoA = 15
+const ladoB = 15
+const ladoC = 16
+if (ladoA === ladoB && ladoB === ladoC) {
+  console.log("É um triângulo")
+} else if (ladoA != ladoB | ladoB != ladoC) {
+  console.log("Não é triângulo")
+} else {
+  console.log("erro de dado atribuido") 
+}
