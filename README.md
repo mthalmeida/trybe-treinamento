@@ -40,7 +40,7 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
  - [x] **02**: HTML & CSS - Primeiros passos em CSS
  - [x] **03**: HTML & CSS - Seletores e posicionamento
  - [x] **04**: HTML Semântico
- - [ ] **05**: Projeto - Lessons Learned
+ - [x] **05**: Projeto - Lessons Learned
 
 **Bloco 04: Introdução à JavaScript e Lógica de Programação**
 
