@@ -33,3 +33,13 @@ if (primeiroNumero > segundoNumero && primeiroNumero > terceiroNumero) {
   console.log(terceiroNumero)
 }
 
+//retorne um valor positivo, negativo ou zero
+let valorDefinido = -2
+if (valorDefinido > 0) {
+  console.log("Positive")
+} else if (valorDefinido < 0) {
+  console.log("Negative")
+} else {
+  console.log("Zero") 
+}
+
