@@ -17,6 +17,9 @@ const divisao = primeiroNumero / segundoNumero
 //Módulo
 const modulo = primeiroNumero % segundoNumero
 
-
-
-
+//retorne o maior de dois números
+if (primeiroNumero > segundoNumero) {
+  console.log(primeiroNumero)
+} else {
+  console.log(segundoNumero)
+}
