@@ -54,7 +54,7 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 ### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
  - [x] **01**: JavaScript - DOM e seletores
- - [ ] **02**: JavaScript - Trabalhando com elementos
+ - [x] **02**: JavaScript - Trabalhando com elementos
  - [ ] **03**: JavaScript - Eventos
  - [ ] **04**: JavaScript - Web Storage
  - [ ] **05**: Fundamentos - JavaScript - Projetos
